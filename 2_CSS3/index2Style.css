@@ -1,0 +1,22 @@
+div{
+    height:200px;
+    width:500px;
+    background-color: pink;
+    
+    /* border-width: 10px;
+    border-style: dotted;
+    border-color: green; */
+    border:10px dotted green;
+    border-right:10px double black;
+    border-radius: 15px;
+}
+
+h1{
+    /* border-width: 10px;
+    border-style: dotted;
+    border-color: magenta; */
+    /* if height and width are same then circle will form using radius 50per*/
+    border: 10px solid magenta;
+    border-radius: 50%;
+}
+

@@ -1,0 +1,7 @@
+div{
+    height:400px;
+    width:300px;
+    background-color: green;
+    background-image: url("virat kohli.jpeg");
+    background-size: cover;
+}
